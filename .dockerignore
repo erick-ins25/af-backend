@@ -1,0 +1,5 @@
+.git
+.idea
+node_modules
+target/*
+!target/af-0.0.1-SNAPSHOT.jar
